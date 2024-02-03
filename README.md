@@ -14,6 +14,10 @@
 # Overview
 CrypTwitter is a Twitter-like decentralized application (DApp) built on web3 technologies. It uses ReactJS and Next.js for the frontend, Solidity for the smart contracts, and the Ethereum blockchain for data storage and authentication. Users can log in with their MetaMask wallet and tweet using funds from their wallet. Tweets are limited to text only.
 
+# Web3:
+
+This Dapp uses Web3 to interact with the Ethereum blockchain. Web3 is a library that allows developers to build decentralized applications. It provides a way to connect to the blockchain, send transactions, and interact with smart contracts.
+
 # Technologies Used ✅
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
