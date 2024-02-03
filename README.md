@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CrypTwitter: A Web3 Twitter DApp
 
-## Getting Started
+<img src="https://media.licdn.com/dms/image/D4D22AQH5KSniYvv2XQ/feedshare-shrink_800/0/1691866976720?e=2147483647&v=beta&t=lZFJAMie7RliyvA0MumQs4seNnDSENa6ECTUErPpXb4"/>
 
-First, run the development server:
+# Overview
+CrypTwitter is a Twitter-like decentralized application (DApp) built on web3 technologies. It uses ReactJS and Next.js for the frontend, Solidity for the smart contracts, and the Ethereum blockchain for data storage and authentication. Users can log in with their MetaMask wallet and tweet using funds from their wallet. Tweets are limited to text only.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Technologies Used ✅
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=next" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=solidity" />
+</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Open [site](https://web3-week-2.vercel.app/) in your web browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Credits
 
-## Learn More
+- LuizTools
 
-To learn more about Next.js, take a look at the following resources:
+LuizTools is a Brazilian developer and entrepreneur who is passionate about web3 technologies.
+He is the founder of the Web3Week event, which is a week-long series of workshops, talks, and hackathons focused on web3 development.
+LuizTools has made significant contributions to the CrypTwitter project, and his help is greatly appreciated.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Web3Week
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Web3Week is a week-long event that focuses on web3 development.
+The event features workshops, talks, and hackathons that are designed to teach people about web3 technologies.
+Web3Week is a great resource for anyone who wants to learn more about web3 and how to build decentralized applications.
 
-## Deploy on Vercel
+# License:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+CrypTwitter is licensed under the MIT license.
